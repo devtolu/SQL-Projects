@@ -1,14 +1,14 @@
 # SQL-Projects
 
-<b>Bike Sales </b>
+<b>Bike Sales Data Analysis</b>
 
-Description: This project analyzes 2.8 million rows of data using SQL and Excel to help an agency in Chicago improve service ticket resolution time by understanding where to focus their resources on first. After exploring the data, I create a priority quadrant based on two selected metrics, plot the data against the quadrant, cross-validate the findings with data from New York City, and deep-dive to find more patterns at district level.
+<b>Description:</b> This project analyzes many rows of data using SQL to help an agency in Chicago improve service ticket resolution time by understanding where to focus their resources on first. After exploring the data, I create a priority quadrant based on two selected metrics, plot the data against the quadrant, cross-validate the findings with data from New York City, and deep-dive to find more patterns at district level.
 
-Tools: PostgreSQL, Excel, and PowerPoint.
+<b>Tools: PostgreSQL, Excel, and PowerPoint.</b>
 
-Skills: Data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
+<b>Skills:</b> Data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
-Outputs:
+<b>Outputs:</b>
 
 Detailed SQL scripts with in-line comments in .sql format.
 Excel workbook in .xlsx with multiple tabs covering data dictionary, data handling documentation, queried tables, pivot tables, and charts.
