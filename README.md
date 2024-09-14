@@ -5,7 +5,9 @@
 <b>Description:</b> This project analyzes many rows of data using SQL to help an agency to analyse the sales data for a company. After exploring the data in Excel, i imported the data to postgreSQL, and answered the following questions below :
 
 Q1:  Find the total number of products for each product category.
+
 Q2:  Find the total number of products for each product category.
+
 Q3:  Top 5 most expensive products.
 Q4:  List the total sales amount (gross) for each product category.
 Q5:  Total sales amount (gross) for each product category.
