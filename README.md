@@ -2,34 +2,32 @@
 
 <b>Bike Sales Data Analysis</b>
 
-<b>Description:</b> This project analyzes many rows of data using SQL to help an agency in Chicago improve service ticket resolution time by understanding where to focus their resources on first. After exploring the data, I create a priority quadrant based on two selected metrics, plot the data against the quadrant, cross-validate the findings with data from New York City, and deep-dive to find more patterns at district level.
+<b>Description:</b> This project analyzes many rows of data using SQL to help an agency to analyse the sales data for a company. After exploring the data in Excel, i imported the data to postgreSQL, and answered the following questions below :
 
-<b>Tools: PostgreSQL, Excel, and PowerPoint.</b>
+Q1:  Find the total number of products for each product category.
+Q2:  Find the total number of products for each product category.
+Q3:  Top 5 most expensive products.
+Q4:  List the total sales amount (gross) for each product category.
+Q5:  Total sales amount (gross) for each product category.
+Q6:  List the top 5 suppliers by total product sales.
+Q7:  Find the total number of products created by each employee.
+Q8:  List the employees who have changed product details the most.
+Q9:  Calculate the total gross amount for each sales order.
+Q10:  Find the sales order items for a specific product ID.
+Q11: Find the number of employees for each sex.
+Q12: List the employees who have 'Manager' in their job title.
+Q13: List all product categories along with their descriptions.
+Q14: Find all products that belong to the 'Mountain Bike' category.
 
-<b>Skills:</b> Data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
+
+<b>Tools: PostgreSQL, and Excel.</b>
+
+<b>Skills:</b> Data querying, data validation, JOINs clauses, aggregation, data type & datetime conversion, group by, table creation & alteration, filtering, subqueries, and presentation.
 
 <b>Outputs:</b>
 
 Detailed SQL scripts with in-line comments in .sql format.
-Excel workbook in .xlsx with multiple tabs covering data dictionary, data handling documentation, queried tables, pivot tables, and charts.
-Presentation slides in .pdf format containing problem statement, data details, findings, summary, and additional remarks.
-Tables
+See attached SQL file below :
 
-chicago_311_2020 - Chicago 311 service ticket data in 2020
-Fields: 15
-Records: 572,514
-chicago_311_2019 - Chicago 311 service ticket data in 2019
-Fields: 15
-Records: 1,826,465
-chicago_311_2018 - Chicago 311 service ticket data in 2018
-Fields: 15
-Records: 461,170
-chicago_311_community_areas - Chicago community areas data (incompleted)
-Fields: 2
-Records: 7
-nyc_311_2019 - New York City 311 service ticket data in 2019
-Fields: 20
-Records: 2,456,955
-Acknowledgements
 
-The data is stored in General Assembly's internal database but is also available on City of Chicago official data portal.
+Data Source : The data was put together for the analysis, hypothetically a bicycle manufacturing company.
