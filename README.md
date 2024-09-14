@@ -26,7 +26,7 @@ Q13: Find all products that belong to the 'Mountain Bike' category.<br>
 <b>Outputs:</b>
 
 Detailed SQL scripts with in-line comments in .sql format.
-See attached SQL file below :
+See the link to the SQL file below :
 
 
 Data Source : The data was put together for the analysis, hypothetically a bicycle manufacturing company.
